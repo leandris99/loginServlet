@@ -1,0 +1,3 @@
+com\mycompany\inicio\JakartaRestConfiguration.class
+com\mycompany\inicio\servlets\iniciosesionservlet.class
+com\mycompany\inicio\resources\JakartaEE10Resource.class
